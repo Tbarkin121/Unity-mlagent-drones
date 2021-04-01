@@ -9,8 +9,10 @@ Stabable flight with rewards given for maintaining a target veloicity vector.
 This allows for a higheractical control structure with path planning feeding velocity vectors to the control net. This also allows for user input to directly control the flight of the quadrotor
 
 # Setup
-Creat a new anaconda environment with python 3.7
+Create a new anaconda environment with python 3.7
+
 conda create -n mlagents python=3.7
+
 conda activate mlagents
 
 # Installing mlagent requirements
