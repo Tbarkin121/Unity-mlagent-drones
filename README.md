@@ -1,8 +1,10 @@
 # Unity-mlagent-drones
 Playing with ML Agents with Quadrotor type things. 
 
-The drone models is from : https://github.com/mbaske/ml-drone-collection
-The environment for user control is from :https://github.com/SebLague/Marching-Cubes
+The drone models is from : 
+https://github.com/mbaske/ml-drone-collection
+The environment for user control is from : 
+https://github.com/SebLague/Marching-Cubes
 
 Trained :
 Stabable flight with rewards given for maintaining a target veloicity vector. 
